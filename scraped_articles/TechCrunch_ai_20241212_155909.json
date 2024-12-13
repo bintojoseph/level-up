@@ -1,0 +1,40 @@
+{
+    "title": "Founder who built Snap’s AI launches a snappy new take on video chatbots",
+    "text": "A deep learning scientist whose last startup was acquired by Snap to build its My AI chatbot has raised seed funding for his latest venture: a platform for building and operating real-time, video-based conversational AI agents.\n\neSelf, as the startup is known, is today coming out of stealth with $4.5 million in its coffers to enter the race to build live, interactive, and more realistic AI assistants. Its initial focus is on verticals including education, sales, financial services, real estate, and health and wellness.\n\neSelf’s early pitch is that its agents’ current query/interaction response time is under 1.7 seconds — which it claims is faster, and thus more lifelike, than voice responses from other leading companies like OpenAI. The Israeli startup has launched a “no-code” creation studio that lets its customers build their own agents. These agents can operate common apps — like Calendly, Salesforce, others — to schedule appointments, access collateral content, and to reference data just as a human assistant might do.\n\neSelf says it has, in stealth, already powered “millions” of real-time conversations. Current customers include Christie’s real estate, and Brazilian bank AGI.\n\nExplorer Investments, a firm out of Portugal, led the round with participation from Ridge Ventures, M-Fund and strategic angel investors such as Eyal Manor, former VP of engineering at YouTube and chief product and engineering officer at Twilio.\n\neSelf is co-founded by Dr Alan Bekker (CEO) and Eylon Shoshan (CTO), and it has an unlikely origin story.\n\nBekker, who lives in Tel Aviv, tells me his original wish was to become a rabbi — an ambition that he fell out of love with several years into studying, he said, after approaching the chief rabbi in his school, asking big questions about God and faith, and not being satisfied with the answers he got in return.\n\n“I came home to my wife Liza,” he said. “I told her I didn’t believe in God anymore.”\n\nWhether he reconciled that in the end or not, I have no idea. But it seems that he did discover another kind of religion in the wake of that dramatic moment.\n\n“My passion was always about understanding humans and our world in general,” he said. He had a longstanding interest in math from his days as a student, and so he dropped out of rabbinical school and turned to university to study engineering, physics and computer science.\n\nHe signed up for a course in machine learning “completely by mistake,” he said, and it gave him a glimpse into another kind of omniscience.\n\n“You can, with mathematics, understand natural language, vision, speech,” he said. “It was mind blowing.”\n\nFirst startup sold for $100M\n\nFast forward through a PhD, many research papers, and a lot of loans (now repaid), Bekker became a specialist in voice recognition, neural networks and deep learning. He also had an entrepreneurial itch and, it turns out, a knack for proverbially spotting where the puck is going.\n\nHis first startup was Voca, which focused on building AI voice assistants for call centers. It started to rack up large customers like American Express and AT&T, and then Snap came knocking. As we reported at the time, Snap acquired the startup in 2020 for $100 million, but with little indication of how it would use the tech.\n\nBekker took on a role as the head of Conversational AI at Snap where he led a team that built… conversational AI tech. But it took almost three years, and for the tech world to be turned upside down with the viral arrival of generative AI, for that to finally make a landing point in a product.\n\nBy the time Snapchat launched My AI, its conversational chatbot, in 2023, Bekker had been a year out of the company. Perhaps just as well: My AI had mixed (and some quite negative) responses since getting released.\n\n(Bekker tells us that while he was involved in the tech, he wasn’t wasn’t involved in building the product or the integration with Snapchat.)\n\nMeanwhile, he started thinking of what the next generation of AI agents might look like: rather than voice- and text-based queries, with text-based responses, he saw the potential for a more interactive and humanlike product, using video and voice in the response.\n\nBekker teamed up with Shoshan, who cut his teeth in Israel’s 8200 unit and is a specialist in natural language processing, to co-found eSelf.\n\nThe tech world is fast becoming crowded with companies targeting what is now being described as the “agentic” opportunity.\n\nTapping into advances in Generative AI, there has been an array of companies emerging that are working on delivering responses that are not just more accurate but more believable because of the form — a ‘human’ with a ‘voice’ — delivering it.\n\nCompanies including H, Eleven Labs, Amazon, Anthropic, the newly launched /dev/agents, LinkedIn and OpenAI are creating building blocks to craft agents to carry out various tasks. Startups and established players like Salesforce are also coming out with agents for specific use cases like shopping, assisting enterprise sales and revenue teams, and design.\n\nIt’s very early days, but it will be worth watching to see which of these catch on with paying users, and which startups land investors to help them grow.\n\nThat is, if you assume any of this will take off and get past some of the significant gating factors. One area that has proven to be a major cash drain is the building and training of models. Bekker said that eSelf has not built its own LLMs from the ground up. Instead, it has fine-tuned Meta-created Llama models, among others. “Customers who have chatbot in place built on, say, GPT, can change to use that,” he said, “but the latency will be longer.”\n\nUpdated to correct the name of Bekker’s wife and one of Voca’s past customers; and to add an investor.",
+    "summary": "A deep learning scientist whose last startup was acquired by Snap to build its My AI chatbot has raised seed funding for his latest venture: a platform for building and operating real-time, video-based conversational AI agents.\nThe Israeli startup has launched a “no-code” creation studio that lets its customers build their own agents.\nHis first startup was Voca, which focused on building AI voice assistants for call centers.\nBekker took on a role as the head of Conversational AI at Snap where he led a team that built… conversational AI tech.\nBy the time Snapchat launched My AI, its conversational chatbot, in 2023, Bekker had been a year out of the company.",
+    "keywords": [
+        "snaps",
+        "launches",
+        "startup",
+        "customers",
+        "ai",
+        "voice",
+        "building",
+        "founder",
+        "video",
+        "conversational",
+        "built",
+        "agents",
+        "tech",
+        "snap",
+        "chatbots",
+        "responses",
+        "snappy"
+    ],
+    "url": "https://techcrunch.com/2024/12/11/founder-who-built-snaps-ai-launches-a-snappy-new-take-on-video-chatbots/",
+    "authors": [
+        "Ingrid Lunden",
+        "Maxwell Zeff",
+        "Kyle Wiggers",
+        "Carly Page",
+        "Romain Dillet",
+        "Julie Bort",
+        "Kirsten Korosec",
+        "Europe Editor",
+        "Cody Corrall",
+        "Alyssa Stringer"
+    ],
+    "publish_date": "2024-12-11T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_9018.jpeg?resize=1200,736",
+    "scraped_at": "2024-12-12T15:59:09.025353"
+}

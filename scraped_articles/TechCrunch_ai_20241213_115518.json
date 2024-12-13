@@ -1,0 +1,38 @@
+{
+    "title": "Google wants to sell those Project Astra AR glasses some day, but it won’t be today",
+    "text": "Google is slowly peeling back the curtain on its vision to, one day, sell you glasses with augmented reality and multimodal AI capabilities. The company’s plans for those glasses, however, are still blurry.\n\nAt this point, we’ve seen multiple demos of Project Astra — DeepMind’s effort to build real-time, multimodal apps and agents with AI — running on a mysterious pair of prototype glasses. On Wednesday, Google said it would release those prototype glasses, armed with AI and AR capabilities, to a small set of selected users for real-world testing.\n\nOn Thursday, Google said the Project Astra prototype glasses would run on Android XR, Google’s new operating system for vision-based computing. It’s now starting to let hardware makers and developers build different kinds of glasses, headsets, and experiences around this operating system.\n\nDemo of Google’s translation feature on its prototype glasses. Image Credits:Google\n\nThe glasses seem cool, but it’s important to remember that they’re essentially vaporware — Google still has nothing concrete to share about the actual product or when it will be released. However, it certainly seems like the company wants to launch these at some point, calling smart glasses and headsets the “next generation of computing” in a press release. Today, Google is building out Project Astra and Android XR so that these glasses can one day be an actual product.\n\nGoogle also shared a new demo showing how its prototype glasses can use Project Astra and AR technology to do things like translate posters in front of you, remember where you left things around the house, or let you read texts without taking out your phone.\n\n“Glasses are one of the most powerful form factors because of being hands-free; because it is an easily accessible wearable. Everywhere you go, it sees what you see,” said DeepMind product lead Bibo Xu in an interview with TechCrunch at Google’s Mountain View headquarters. “It’s perfect for Astra.”\n\nClose-up of Google’s prototype glasses. Image Credits:Google\n\nA Google spokesperson told TechCrunch they have no timeline for a consumer launch of this prototype, and the company isn’t sharing many details about the AR technology in the glasses, how much they cost, or how all of this really works.\n\nBut Google did at least share its vision for AR and AI glasses in a press release on Thursday:\n\nAndroid XR will also support glasses for all-day help in the future. We want there to be lots of choices of stylish, comfortable glasses you’ll love to wear every day and that work seamlessly with your other Android devices. Glasses with Android XR will put the power of Gemini one tap away, providing helpful information right when you need it — like directions, translations or message summaries without reaching for your phone. It’s all within your line of sight, or directly in your ear.\n\nDemo of Google’s Prototype Glasses. Image Credits:Google\n\nMany tech companies have shared similar lofty visions for AR glasses in recent months. Meta recently showed off its prototype Orion AR glasses, which also have no consumer launch date. Snap’s Spectacles are available for purchase to developers, but they’re still not a consumer product either.\n\nAn edge that Google seems to have on all of its competitors, however, is Project Astra, which it is launching as an app to a few beta testers soon. I got a chance to try out the multimodal AI agent — albeit, as a phone app and not a pair of glasses — earlier this week, and while it’s not available for consumer use today, I can confirm that it works pretty well.\n\nI walked around a library on Google’s campus, pointing a phone camera at different objects while talking to Astra. The agent was able to process my voice and the video simultaneously, letting me ask questions about what I was seeing and get answers in real time. I pinged from book cover to book cover and Astra quickly gave me summaries of the authors and books I was looking at.\n\nProject Astra works by streaming pictures of your surroundings, one frame per second, into an AI model for real-time processing. While that’s happening, it also processes your voice as you speak. Google DeepMind says it’s not training its models on any of this user data it collects, but the AI model will remember your surroundings and conversations for 10 minutes. That allows the AI to refer back to something you saw or said earlier.\n\nSome members of Google DeepMind also showed me how Astra could read your phone screen, similar to how it understands the view through a phone camera. The AI could quickly summarize an Airbnb listing, it used Google Maps to show nearby destinations, and executed Google Searches based on things it was seeing on the phone screen.\n\nUsing Project Astra on your phone is impressive, and it’s likely a signal of what’s coming for AI apps. OpenAI has also demoed GPT-4o’s vision capabilities, which are similar to Project Astra and also have been teased to release soon. These apps could make AI assistants far more useful by giving them capabilities far beyond the realm of text chatting.\n\nWhen you’re using Project Astra on a phone, it’s apparent that the AI model would really be perfect on a pair of glasses. It seems Google has had the same idea, but it might take them a while to make that a reality.\n\nTechCrunch has an AI-focused newsletter! Sign up here to get it in your inbox every Wednesday.",
+    "summary": "On Thursday, Google said the Project Astra prototype glasses would run on Android XR, Google’s new operating system for vision-based computing.\nToday, Google is building out Project Astra and Android XR so that these glasses can one day be an actual product.\nDemo of Google’s Prototype Glasses.\nImage Credits:GoogleMany tech companies have shared similar lofty visions for AR glasses in recent months.\nOpenAI has also demoed GPT-4o’s vision capabilities, which are similar to Project Astra and also have been teased to release soon.",
+    "keywords": [
+        "wants",
+        "astra",
+        "google",
+        "wont",
+        "ar",
+        "today",
+        "project",
+        "prototype",
+        "day",
+        "phone",
+        "glasses",
+        "ai",
+        "googles",
+        "sell",
+        "xr"
+    ],
+    "url": "https://techcrunch.com/2024/12/12/google-wants-to-sell-those-project-astra-ar-glasses-some-day-but-it-wont-be-today/",
+    "authors": [
+        "Maxwell Zeff",
+        "Kirsten Korosec",
+        "Kyle Wiggers",
+        "Carly Page",
+        "Julie Bort",
+        "Senior Reporter",
+        "Ivan Mehta",
+        "Sarah Perez",
+        "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var",
+        "Media"
+    ],
+    "publish_date": "2024-12-12T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2024/12/Still_Glasses_Lifestyle_2.jpg?resize=1200,830",
+    "scraped_at": "2024-12-13T11:55:18.864673"
+}

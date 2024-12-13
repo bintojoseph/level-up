@@ -1,0 +1,36 @@
+{
+    "title": "Microsoft debuts Phi-4, a new generative AI model, in research preview",
+    "text": "Microsoft has announced the newest addition to its Phi family of generative AI models.\n\nCalled Phi-4, the model is improved in several areas over its predecessors, Microsoft claims — in particular math problem solving. That’s partly the result of improved training data quality.\n\nPhi-4 is available in very limited access as of Thursday night: only on Microsoft’s recently launched Azure AI Foundry development platform, and only for research purposes under a Microsoft research license agreement.\n\nThis is Microsoft’s latest small language model, coming in at 14 billion parameters in size, and it competes with other small models such as GPT-4o mini, Gemini 2.0 Flash, and Claude 3.5 Haiku. These AI models are oftentimes faster and cheaper to run, but the performance of small language models has gradually increased over the last several years.\n\nIn this case, Microsoft attributes Phi-4’s jump in performance to the use of “high-quality synthetic datasets,” alongside high-quality datasets of human-generated content and some unspecified post-training improvements.\n\nMany AI labs are looking more closely at innovations they can make around synthetic data and post training these days. Scale AI CEO Alexandr Wang said in a tweet on Thursday that “we have reached a pre-training data wall,” confirming several reports on the topic in the last several weeks.\n\nNotably, Phi-4 is the first Phi-series model to launch following the departure of Sébastien Bubeck. Previously an AI VP at Microsoft and a key figure in the company’s Phi model development, Bubeck left Microsoft in October to join OpenAI.",
+    "summary": "Microsoft has announced the newest addition to its Phi family of generative AI models.\nCalled Phi-4, the model is improved in several areas over its predecessors, Microsoft claims — in particular math problem solving.\nPhi-4 is available in very limited access as of Thursday night: only on Microsoft’s recently launched Azure AI Foundry development platform, and only for research purposes under a Microsoft research license agreement.\nMany AI labs are looking more closely at innovations they can make around synthetic data and post training these days.\nPreviously an AI VP at Microsoft and a key figure in the company’s Phi model development, Bubeck left Microsoft in October to join OpenAI.",
+    "keywords": [
+        "model",
+        "microsoft",
+        "small",
+        "models",
+        "ai",
+        "preview",
+        "synthetic",
+        "research",
+        "generative",
+        "training",
+        "data",
+        "phi4",
+        "debuts"
+    ],
+    "url": "https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/",
+    "authors": [
+        "Kyle Wiggers",
+        "Maxwell Zeff",
+        "Kirsten Korosec",
+        "Carly Page",
+        "Julie Bort",
+        "Senior Reporter",
+        "Cody Corrall",
+        "Alyssa Stringer",
+        "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var",
+        "Media"
+    ],
+    "publish_date": "2024-12-12T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office.jpg?resize=1200,798",
+    "scraped_at": "2024-12-13T11:54:14.232090"
+}

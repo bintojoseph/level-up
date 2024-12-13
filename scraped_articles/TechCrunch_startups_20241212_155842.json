@@ -1,0 +1,40 @@
+{
+    "title": "200 VCs wanted to get into Lumen Orbit’s $11M seed round",
+    "text": "Lumen Orbit, a startup looking to build data centers in space, was able to close its recent seed round in mere days amid intense investor interest.\n\nThe Redmond, Washington-based company closed on an $11 million seed round at a $40 million valuation, confirming prior TechCrunch reporting that the company had raised a competitive double-digit round as one of the buzziest startups out of Y Combinator’s Summer 2024 batch. The deal was led by NFX — NFX general partner Morgan Beller will join the company’s board — with participation from VCs, including Fuse.VC, Soma Capital, and scout funds from Andreessen Horowitz and Sequoia, among others.\n\nLumen Orbit co-founder and CEO Philip Johnston told TechCrunch that due to the high investor demand — more than 200 hundred VCs reached out to the startup — the company has since opened up another SAFE round on top of it, at a higher valuation, to let more investors in.\n\nThat’s quite a lot of interest for a company that was founded only in January.\n\nThe company is building orbital data centers that are made up of pods, which can hold compute and can be brought up individually, attaching to large solar panels in space in clusters (concept image above). Lumen’s goal is to build multi-gigawatt compute clusters by the end of the decade. These data centers will use a high-bandwidth optical laser to send information back down to Earth.\n\nIf successful, Lumen’s tech could help AI companies scale without the data center size and power restrictions they have on Earth and at a fraction of the money it takes to run a data center on the ground.\n\n“Instead of paying $140 million for electricity, you can pay $10 million for a launch and solar,” Johnston said.\n\nThe company is planning to launch a demonstrator satellite in May that will include Nvidia’s terrestrial GPUs. It plans to launch another test satellite that’s 100x more powerful the following year. Johnston said that they want to launch something at least once a year.\n\n“A lot of space companies take five years to launch; we are launching it in 18 months,” Johnston said. “We’d rather launch frequently with smaller changes than wait five years and launch with a ton of incremental changes.”\n\nJohnston said he and his co-founder, Ezra Feilden, CTO, got the idea for the company from their time working in the space industry. Feilden has a decade of experience working on satellite design at companies such as Airbus Defense and Oxford Space Systems. Johnston worked with national space organizations in the Middle East on their satellite projects as a consultant at McKinsey. He also is a former founder of Opontia, a startup that scaled digital brands in the Middle East and was acquired at the end of 2023.\n\nAs the cost to launch satellites gets increasingly cheaper, Johnston said they initially thought that space solar would be an interesting segment of the market. The childhood friends soon realized that the amount of energy needed to send the solar power back to Earth made it more of a hassle than it was worth.\n\nBut data centers are different because they aren’t producing energy to send back down to Earth. Instead, they are soaking up the sun’s energy and largely staying put. Building data centers also takes care of the cooling problem because deep space is naturally cold.\n\nWhen Johnston and Feilden got the idea, they were introduced to Adi Oltean, an engineer at SpaceX at the time who had been independently thinking of this idea as well. Oltean joined the founding team about a month after the company launched as co-founder and chief engineer.\n\nBuilding data centers in space, and in the deep ocean, have become an increasing part of the conversation on how to help AI scale to its full potential. Multiple people in the AI community, from Bill Gates to Sam Altman to Elon Musk, have all touted this as a potential solution to AI’s growing data center and power problem.\n\nAxiom Space is also working to develop orbital data centers, but the field isn’t crowded — at least for now. But that will likely change as more AI industry professionals seem hungry for this type of innovation.\n\nLumen’s mission is ambitious, as the success of the company relies on the costs to launch satellites continuing to come down — and staying that way. But if successful, it could help AI scale at the rate it wants and perhaps needs to, while also diminishing some of the tech’s effects on Earth’s climate.",
+    "summary": "Lumen Orbit, a startup looking to build data centers in space, was able to close its recent seed round in mere days amid intense investor interest.\nThese data centers will use a high-bandwidth optical laser to send information back down to Earth.\n“Instead of paying $140 million for electricity, you can pay $10 million for a launch and solar,” Johnston said.\nBut data centers are different because they aren’t producing energy to send back down to Earth.\nAxiom Space is also working to develop orbital data centers, but the field isn’t crowded — at least for now.",
+    "keywords": [
+        "wanted",
+        "round",
+        "data",
+        "company",
+        "ai",
+        "centers",
+        "200",
+        "lumen",
+        "seed",
+        "solar",
+        "vcs",
+        "launch",
+        "johnston",
+        "space",
+        "orbits",
+        "satellite",
+        "11m"
+    ],
+    "url": "https://techcrunch.com/2024/12/11/200-vcs-wanted-to-get-into-lumen-orbits-11m-seed-round/",
+    "authors": [
+        "Rebecca Szkutak",
+        "Maxwell Zeff",
+        "Kyle Wiggers",
+        "Carly Page",
+        "Romain Dillet",
+        "Julie Bort",
+        "Kirsten Korosec",
+        "Senior Reporter",
+        "Paul Sawers",
+        "Manish Singh"
+    ],
+    "publish_date": "2024-12-11T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2024/12/Lumen-concept-3-1.png?resize=1200,680",
+    "scraped_at": "2024-12-12T15:58:42.314675"
+}

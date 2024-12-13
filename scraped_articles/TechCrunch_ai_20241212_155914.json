@@ -1,0 +1,37 @@
+{
+    "title": "Apple reportedly developing AI server chip with Broadcom",
+    "text": "In Brief\n\nApple is working with semiconductor company Broadcom on its first server chip designed to handle AI applications, according to The Information, which cited three people with knowledge of the project.\n\nApple is known for designing its own chips — called Apple Silicon and primarily manufactured by TSMC — for its devices. But those chips weren’t necessarily designed to power AI processing.\n\nApple on Wednesday rolled out several much-awaited Apple Intelligence features to users with newer iPhones and Macs, like its ChatGPT integration. While Apple plans to run much of its AI directly on devices, certain tasks — like Siri and Maps — are handled in the cloud and have heavy computing demands. And Apple plans to roll out even more generative AI features in the coming years.\n\nThat’s where Apple’s new server chips, code-named internally Baltra, come into play.\n\nA source told The Information that Broadcom and Apple are focused on the chip’s networking technology, which is critical for connecting a device to a network for AI processing. The company aims to complete the chip design within 12 months.",
+    "summary": "In BriefApple is working with semiconductor company Broadcom on its first server chip designed to handle AI applications, according to The Information, which cited three people with knowledge of the project.\nApple is known for designing its own chips — called Apple Silicon and primarily manufactured by TSMC — for its devices.\nApple on Wednesday rolled out several much-awaited Apple Intelligence features to users with newer iPhones and Macs, like its ChatGPT integration.\nAnd Apple plans to roll out even more generative AI features in the coming years.\nThat’s where Apple’s new server chips, code-named internally Baltra, come into play.",
+    "keywords": [
+        "broadcom",
+        "company",
+        "plans",
+        "features",
+        "apple",
+        "chips",
+        "developing",
+        "designed",
+        "information",
+        "server",
+        "devices",
+        "chip",
+        "reportedly",
+        "ai"
+    ],
+    "url": "https://techcrunch.com/2024/12/11/apple-reportedly-developing-ai-server-chip-with-broadcom/",
+    "authors": [
+        "Rebecca Bellan",
+        "Kyle Wiggers",
+        "Lauren Forristal",
+        "Cody Corrall",
+        "Alyssa Stringer",
+        "Paul Sawers",
+        "Maxwell Zeff",
+        ".Post-Authors-List__Authors --Font-Size Var",
+        "Align-Items Center Display Flex Gap Var",
+        ".Post-Authors-List__Authors .Post-Authors-List__Author-Thumbs Display Flex Flex-Shrink Margin Padding .Post-Authors-List__Authors .Post-Authors-List__Author-Thumbs Li List-Style None Margin-Left Margin-Top Important .Post-Authors-List__Authors .Post-Authors-List__Author-Thumbs Li First-Child Margin-Left .Post-Authors-List__Authors .Post-Authors-List__Author-Thumbs .Post-Authors-List__Author-Thumb Background-Color Var"
+    ],
+    "publish_date": "2024-12-11T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2023/10/Apple-M3-chip-series-architecture_screen.jpeg?resize=1200,675",
+    "scraped_at": "2024-12-12T15:59:14.603429"
+}

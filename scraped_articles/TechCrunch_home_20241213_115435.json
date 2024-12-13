@@ -1,0 +1,37 @@
+{
+    "title": "Yahoo cybersecurity team sees layoffs, outsourcing of ‘red team,’ under new CTO",
+    "text": "Yahoo laid off around 25% of its cybersecurity team — known as The Paranoids — over the last year, TechCrunch has learned.\n\nOverall, the company has laid off or lost through attrition 40 to 50 people from a total of 200 employees in the cybersecurity team since the start of 2024, according to multiple current and former Yahoo employees who spoke to TechCrunch on condition of anonymity. (Yahoo is TechCrunch’s parent company.)\n\nThe Paranoids are not the only team affected by the layoffs. Valeri Liborski, who was appointed Yahoo’s chief technology officer in September, sent an email this week to employees announcing changes across the broader technology unit, including enterprise productivity and core services. The email to staff, which was obtained by TechCrunch, said: “This was a very difficult decision and one I have not taken lightly.”\n\nThe Paranoids’ red team, or offensive security team — which conducts cyberattack simulations to identify weaknesses in the company’s network before external hackers can — was eliminated entirely this week, and there have been at least three rounds of layoffs impacting the cybersecurity team this year, according to the sources.\n\nYahoo confirmed the layoffs, including the elimination of its red team, when reached by TechCrunch on Thursday.\n\n“Yahoo’s security program has matured significantly over the past seven years and is widely recognized as a world-class, industry-leading operation. As part of this evolution, we’ve made strategic adjustments, including transitioning offensive security operations to an outsourced model,” said Yahoo spokesperson Brenden Lee. “This change reflects the sophistication of our program and enables us to concentrate resources on critical security priorities, maintaining the highest standards of protection for our users and platforms.”\n\nThe company as a whole laid off more than 1,600 employees — around 20% of its total workforce — last year, as Axios reported at the time. Yahoo chief executive Jim Lanzone told Axios that the layoffs would be “tremendously beneficial for the profitability of Yahoo overall” and that the company will “go on offense” and invest in other parts of its business.",
+    "summary": "Yahoo laid off around 25% of its cybersecurity team — known as The Paranoids — over the last year, TechCrunch has learned.\nThe Paranoids are not the only team affected by the layoffs.\nYahoo confirmed the layoffs, including the elimination of its red team, when reached by TechCrunch on Thursday.\n“Yahoo’s security program has matured significantly over the past seven years and is widely recognized as a world-class, industry-leading operation.\nAs part of this evolution, we’ve made strategic adjustments, including transitioning offensive security operations to an outsourced model,” said Yahoo spokesperson Brenden Lee.",
+    "keywords": [
+        "including",
+        "sees",
+        "cybersecurity",
+        "employees",
+        "layoffs",
+        "team",
+        "company",
+        "cto",
+        "techcrunch",
+        "security",
+        "paranoids",
+        "outsourcing",
+        "red",
+        "laid"
+    ],
+    "url": "https://techcrunch.com/2024/12/12/yahoo-cybersecurity-team-sees-layoffs-outsourcing-of-red-team-under-new-cto/",
+    "authors": [
+        "Zack Whittaker",
+        "Lorenzo Franceschi-Bicchierai",
+        "Kirsten Korosec",
+        "Kyle Wiggers",
+        "Maxwell Zeff",
+        "Carly Page",
+        "Julie Bort",
+        "Security Editor",
+        "Senior Reporter",
+        "Rebecca Bellan"
+    ],
+    "publish_date": "2024-12-12T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1242149379.jpg?resize=1200,800",
+    "scraped_at": "2024-12-13T11:54:35.665631"
+}

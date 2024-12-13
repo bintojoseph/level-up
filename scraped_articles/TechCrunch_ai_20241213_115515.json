@@ -1,0 +1,38 @@
+{
+    "title": "ChatGPT now understands real-time video, seven months after OpenAI first demoed it",
+    "text": "OpenAI has finally released the real-time video capabilities for ChatGPT that it demoed nearly seven months ago.\n\nOn Thursday during a livestream, the company said that Advanced Voice Mode, its human-like conversational feature for ChatGPT, is getting vision. Using the ChatGPT app, users subscribed to ChatGPT Plus, Team, or Pro can point their phones at objects and have ChatGPT respond in near real time.\n\nAdvanced Voice Mode with vision can also understand what’s on a device’s screen via screen sharing. It can explain various settings menus, for example, or give suggestions on a math problem.\n\nTo access Advanced Voice Mode with vision, tap the voice icon next to the ChatGPT chat bar, then tap the video icon on the bottom left, which will start video. To screen-share, tap the three-dot menu and select “Share Screen.”\n\nThe rollout of Advanced Voice Mode with vision will start Thursday, OpenAI says, and wrap up in the next week. But not all users will get access. OpenAI says that ChatGPT Enterprise and Edu subscribers won’t get the feature until January, and that it has no timeline for ChatGPT users in the EU, Switzerland, Iceland, Norway, or Liechtenstein.\n\nIn a recent demo on CNN’s “60 Minutes,” OpenAI President Greg Brockman had Advanced Voice Mode with vision quiz Anderson Cooper on his anatomy skills. As Cooper drew body parts on a blackboard, ChatGPT could “understand” what he was drawing.\n\nOpenAI employees demo ChatGPT’s Advanced Voice Mode with vision during a livestream. Image Credits:OpenAI\n\n“The location is spot on,” ChatGPT said. “The brain is right there in the head. As for the shape, it’s a good start. The brain is more of an oval.”\n\nIn that same demo, Advanced Voice Mode with vision made a mistake on a geometry problem, however, suggesting that it’s prone to hallucinating.\n\nAdvanced Voice Mode with vision has been delayed multiple times — reportedly in part because OpenAI announced the feature far before it was production-ready. In April, OpenAI promised that Advanced Voice Mode would roll out to users “within a few weeks.” Months later, the company said it needed more time.\n\nWhen Advanced Voice Mode finally arrived in early fall for some ChatGPT users, it lacked the visual analysis component. In the lead-up to Thursday’s launch, OpenAI has focused its attention on bringing the voice-only Advanced Voice Mode experience to additional platforms and users in the EU.\n\nRivals like Google and Meta are working on similar capabilities for their respective chatbot products. This week, Google made its real-time, video-analyzing conversational AI feature, Project Astra, available to a group of “trusted testers” on Android.\n\nIn addition to Advance Voice Mode with vision, OpenAI on Thursday launched a festive “Santa Mode,” which adds Santa’s voice as a preset voice in ChatGPT. Users can find it by tapping or clicking the snowflake icon in the ChatGPT app next to the prompt bar.",
+    "summary": "OpenAI has finally released the real-time video capabilities for ChatGPT that it demoed nearly seven months ago.\nAdvanced Voice Mode with vision can also understand what’s on a device’s screen via screen sharing.\nTo access Advanced Voice Mode with vision, tap the voice icon next to the ChatGPT chat bar, then tap the video icon on the bottom left, which will start video.\nWhen Advanced Voice Mode finally arrived in early fall for some ChatGPT users, it lacked the visual analysis component.\nIn addition to Advance Voice Mode with vision, OpenAI on Thursday launched a festive “Santa Mode,” which adds Santa’s voice as a preset voice in ChatGPT.",
+    "keywords": [
+        "months",
+        "advanced",
+        "feature",
+        "understands",
+        "demoed",
+        "mode",
+        "openai",
+        "tap",
+        "video",
+        "seven",
+        "users",
+        "voice",
+        "vision",
+        "realtime",
+        "chatgpt"
+    ],
+    "url": "https://techcrunch.com/2024/12/12/chatgpt-now-understands-real-time-video-seven-months-after-openai-first-demoed-it/",
+    "authors": [
+        "Kyle Wiggers",
+        "Kirsten Korosec",
+        "Maxwell Zeff",
+        "Carly Page",
+        "Julie Bort",
+        "Senior Reporter",
+        "Aisha Malik",
+        "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var",
+        "Media",
+        "Min-Width"
+    ],
+    "publish_date": "2024-12-12T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+    "scraped_at": "2024-12-13T11:55:15.136360"
+}

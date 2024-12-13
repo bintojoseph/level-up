@@ -1,0 +1,35 @@
+{
+    "title": "ChatGPT and Sora experienced a major outage",
+    "text": "OpenAI says ChatGPT, Sora, and its developer-facing API experienced a major outage starting at around 3pm PT on Wednesday, according to the company’s status page. The company says it’s largely back online as of 9pm PT.\n\n“ChatGPT, API, and Sora were down today but we’ve recovered,” said OpenAI in a tweet.\n\nChatGPT, API, and Sora were down today but we've recovered. https://t.co/OKiQYp3tXE — OpenAI (@OpenAI) December 12, 2024\n\nIt remains unclear what the cause of the outage is. OpenAI said ChatGPT, the API, and Sora were slowly coming back online around 7pm PT, according to an update posted to its status page.\n\n“ChatGPT is currently unavailable,” read an error message that appeared when visiting ChatGPT.com during the outage. “We have identified the issue and are working to roll out a fix.”\n\nLogging onto ChatGPT on Wednesday produced this message. (image credit: OpenAI)\n\nThe ChatGPT outage comes on the same day that OpenAI launched its integration with Apple in iOS 18.2. Some users reported on social media that ChatGPT was not working in Apple Intelligence because of the downtime on Wednesday.\n\n“The OpenAI outage was unrelated to 12 Days of OpenAI or Apple Intelligence,” said OpenAI developer community lead Edwin Arbus in a post on X. “We made a config change that caused many servers to become unavailable.”\n\nEarlier this week, OpenAI also launched Sora publicly. CEO Sam Altman said the startup didn’t anticipate the amount of interest it would receive, and had to limit the number of users that could sign up. Many users who did sign up were unable to generate videos on launch day, receiving a message that OpenAI’s servers were at capacity.\n\nError message shown when visiting Sora.com on Wednesday (image credit: openai)\n\nThe outage also follows another global service interruption to Meta’s products early Wednesday.\n\nThis outage for OpenAI’s products falls on day five of the company’s “12 days of OpenAI” event, where the company has shipped new products everyday leading up the holiday season. So far in the program, OpenAI has announced the full release of its o1 reasoning model, a reinforcement fine-tuning research program, the release of Sora, some updates to Canvas, and the Apple Intelligence integration.\n\nWe're experiencing an outage right now. We have identified the issue and are working to roll out a fix.\n\n\n\nSorry and we'll keep you updated! — OpenAI (@OpenAI) December 12, 2024\n\nOpenAI referred TechCrunch to a tweet from its official X account when we reached out for comment.",
+    "summary": "OpenAI says ChatGPT, Sora, and its developer-facing API experienced a major outage starting at around 3pm PT on Wednesday, according to the company’s status page.\n“ChatGPT, API, and Sora were down today but we’ve recovered,” said OpenAI in a tweet.\nChatGPT, API, and Sora were down today but we've recovered.\n(image credit: OpenAI)The ChatGPT outage comes on the same day that OpenAI launched its integration with Apple in iOS 18.2.\n— OpenAI (@OpenAI) December 12, 2024OpenAI referred TechCrunch to a tweet from its official X account when we reached out for comment.",
+    "keywords": [
+        "openai",
+        "sora",
+        "experienced",
+        "outage",
+        "message",
+        "apple",
+        "working",
+        "major",
+        "api",
+        "12",
+        "chatgpt",
+        "users"
+    ],
+    "url": "https://techcrunch.com/2024/12/11/chatgpt-and-sora-are-down/",
+    "authors": [
+        "Maxwell Zeff",
+        "Kyle Wiggers",
+        "Carly Page",
+        "Romain Dillet",
+        "Julie Bort",
+        "Kirsten Korosec",
+        "Senior Reporter",
+        "Ingrid Lunden",
+        "Cody Corrall",
+        "Alyssa Stringer"
+    ],
+    "publish_date": "2024-12-11T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2023/11/openAI-pattern-03.jpg?resize=1200,675",
+    "scraped_at": "2024-12-12T15:58:22.550339"
+}

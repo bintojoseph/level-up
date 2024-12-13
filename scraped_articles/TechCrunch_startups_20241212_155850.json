@@ -1,0 +1,38 @@
+{
+    "title": "Albert Invent hopes to revolutionize the chemicals sector with its AI platform",
+    "text": "If startup funding rounds are any metric, generative AI is seeing ample adoption in the sciences. It makes sense: there’s a lot of trial and error involved in research and development, and any tool that can speed up the process for researchers is bound to be useful.\n\nThe latest is Albert Invent, which offers an AI platform trained on data from past chemical experiments, allowing chemists to interrogate molecular-level data when they are formulating chemicals. Its founders previously ran a 3D printing company, and decided to use that knowledge of materials science to train an AI on chemical processes. The startup has now secured a $22.5 million Series A funding round led by Coatue.\n\nThe company’s platform, dubbed Albert Breakthrough, combines structured data with the company’s proprietary AI models. The hope is that chemical companies will be able to use the platform to develop new products faster and better. The company says the platform can, for instance, generate real-time toxicology predictions chemicals and “outperform” standard industry models.\n\nAlbert Invent’s customers include Chemours, Solenis, Keystone Industries, Applied Molecules, Henkel and Nouryon.\n\nNick Talken, Albert Invent’s CEO and co-founder, thinks the platform will bring to chemical science what data scientists have had access to for some time. “This is a SaaS product that’s being used by the largest chemical companies in the world to reinvent the physical world fundamentally. The biggest problem we face as a society, from sustainability to personalized medical devices — all those are going to be solved through chemistry,” he said.\n\nTalken says they have built their own foundational models that are trained on over 15 million chemical structures. “In this industry, you don’t want to just take the corpus of data on the internet. You need to take domain-specific knowledge. And so we’ve taken pretty much the entire public information space around chemistry, around 15 million molecules, built a foundational model, and that’s what powers Albert Breakthrough.”\n\nAsked if the company uses foundational models such as OpenAI, he said the company sometimes uses them for some of its agent networks, such as chatbots, but its foundational chemistry models are its own.\n\nHis co-founder, Ken Kisner, previously led Molecule Corp, which he started in a chemistry lab built inside a trailer in his backyard. The two built Molecule Corp to become a global producer of 3D materials for stereolithography, and sold it in May 2019 to Henkel Corporation.\n\nAnd while at Henkel, they built a team to work on the problem they’re addressing right now. “We incubated Albert Invent as basically a software startup inside of this multinational, 145-year-old chemical company, and then spun it out into a separate entity,” said Talken.\n\nPrior to this Series A round, the startup had raised a small seed round led by Index Ventures in late 2022. TCV, Index Ventures, F-Prime, and Homebrew also participated in the Series A.\n\n“It is exciting to support Albert as the company seeks to transform how chemistry research is performed by implementing the latest AI technology for greater efficiencies and overall business benefit,” David Schneider, general partner at Coatue, said in a statement.\n\nCommenting, Johan Landfors, CTO of Nouryon, said in a statement that the platform was now integral to their product development.",
+    "summary": "The latest is Albert Invent, which offers an AI platform trained on data from past chemical experiments, allowing chemists to interrogate molecular-level data when they are formulating chemicals.\nIts founders previously ran a 3D printing company, and decided to use that knowledge of materials science to train an AI on chemical processes.\nThe company’s platform, dubbed Albert Breakthrough, combines structured data with the company’s proprietary AI models.\nThe company says the platform can, for instance, generate real-time toxicology predictions chemicals and “outperform” standard industry models.\n“We incubated Albert Invent as basically a software startup inside of this multinational, 145-year-old chemical company, and then spun it out into a separate entity,” said Talken.",
+    "keywords": [
+        "sector",
+        "chemicals",
+        "company",
+        "data",
+        "chemistry",
+        "startup",
+        "invent",
+        "ai",
+        "models",
+        "built",
+        "revolutionize",
+        "platform",
+        "chemical",
+        "hopes",
+        "albert"
+    ],
+    "url": "https://techcrunch.com/2024/12/11/albert-invent-hopes-to-revolutionize-the-chemicals-sector-with-its-ai-platform/",
+    "authors": [
+        "Mike Butcher",
+        "Maxwell Zeff",
+        "Kyle Wiggers",
+        "Carly Page",
+        "Romain Dillet",
+        "Julie Bort",
+        "Kirsten Korosec",
+        "Editor At Large",
+        "Ingrid Lunden",
+        "Paul Sawers"
+    ],
+    "publish_date": "2024-12-11T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-628491542.jpg?resize=1200,800",
+    "scraped_at": "2024-12-12T15:58:50.610510"
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Meta debuts a tool for watermarking AI-generated videos",
+    "text": "Throw a stone and you’ll likely hit a deepfake. The commoditization of generative AI has led to an absolute explosion of fake content online: According to ID verification platform Sumsub, there’s been a 4x increase in deepfakes worldwide from 2023 to 2024. In 2024, deepfakes accounted for 7% of all fraud, per Sumsub, ranging from impersonations and account takeovers to sophisticated social engineering campaigns.\n\nIn what it hopes will be a meaningful contribution to the fight against deepfakes, Meta is releasing a tool to apply imperceptible watermarks to AI-generated video clips. Announced on Thursday, the tool, called Meta Video Seal, is available in open source and designed to be integrated into existing software. The tool joins Meta’s other watermarking tools, Watermark Anything (re-released today under a permissive license) and Audio Seal.\n\n“We developed Video Seal to provide a more effective video watermarking solution, particularly for detecting AI-generated videos and protecting originality,” Pierre Fernandez, AI research scientist at Meta, told TechCrunch in an interview.\n\nVideo Seal isn’t the first technology of its kind. DeepMind’s SynthID can watermark videos, and Microsoft has its own video watermarking methodologies.\n\nBut Fernandez asserts that many existing approaches fall short.\n\n“While other watermarking tools exist, they don’t offer sufficient robustness to video compression, which is very prevalent when sharing content through social platforms; weren’t efficient enough to run at scale; weren’t open or reproducible; or were derived from image watermarking, which is suboptimal for videos,” Fernandez said.\n\nIn addition to a watermark, Video Seal can add a hidden message to videos that can later be uncovered to determine their origins. Meta claims that Video Seal is resilient against common edits like blurring and cropping, as well as popular compression algorithms.\n\nFernandez admits that Video Seal has certain limitations, mainly the trade-off between how perceptible the tool’s watermarks are and their overall resilience to manipulation. Heavy compression and significant edits may alter the watermarks or render them unrecoverable, he added.\n\nOf course, the bigger problem facing Video Seal is that devs and industry won’t have much reason to adopt it, particularly those already using proprietary solutions. In a bid to address that, Meta is launching a public leaderboard, Meta Omni Seal Bench, dedicated to comparing the performance of various watermarking methods, and organizing a workshop on watermarking this year at ICLR, a major AI conference.\n\n“We hope that more and more AI researchers and developers will integrate some form of watermarking into their work,” Fernandez said. “We want to collaborate with the industry and the academic community to progress faster in the field.”",
+    "summary": "Announced on Thursday, the tool, called Meta Video Seal, is available in open source and designed to be integrated into existing software.\nThe tool joins Meta’s other watermarking tools, Watermark Anything (re-released today under a permissive license) and Audio Seal.\n“We developed Video Seal to provide a more effective video watermarking solution, particularly for detecting AI-generated videos and protecting originality,” Pierre Fernandez, AI research scientist at Meta, told TechCrunch in an interview.\nDeepMind’s SynthID can watermark videos, and Microsoft has its own video watermarking methodologies.\nMeta claims that Video Seal is resilient against common edits like blurring and cropping, as well as popular compression algorithms.",
+    "keywords": [
+        "watermark",
+        "videos",
+        "seal",
+        "tool",
+        "fernandez",
+        "tools",
+        "video",
+        "watermarks",
+        "ai",
+        "meta",
+        "watermarking",
+        "aigenerated",
+        "debuts"
+    ],
+    "url": "https://techcrunch.com/2024/12/12/meta-releases-a-tool-for-watermarking-ai-generated-videos/",
+    "authors": [
+        "Kyle Wiggers",
+        "Kirsten Korosec",
+        "Maxwell Zeff",
+        "Carly Page",
+        "Julie Bort",
+        "Senior Reporter",
+        "Cody Corrall",
+        "Alyssa Stringer",
+        "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var",
+        "Media"
+    ],
+    "publish_date": "2024-12-12T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2022/02/meta-brands-glitch.jpg?resize=1200,675",
+    "scraped_at": "2024-12-13T11:55:07.136963"
+}

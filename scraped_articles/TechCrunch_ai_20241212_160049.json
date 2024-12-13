@@ -1,0 +1,36 @@
+{
+    "title": "Here’s how OpenAI uses your data when you use ChatGPT through Apple’s integrations",
+    "text": "Following Apple’s integration of OpenAI’s ChatGPT within iOS 18, iPadOS 18, and macOS Sequoia, OpenAI has detailed how your data is handled when you use ChatGPT through Apple’s integration.\n\nYou can use ChatGPT through Apple’s integrations without logging into a ChatGPT account, but you get access to additional features if you log into your account. For instance, you get access to OpenAI’s more powerful AI models and the ability to save your conversations.\n\nUsing ChatGPT without an account through Apple’s integrations\n\nIf you use ChatGPT through Apple’s integration without logging into a ChatGPT account, OpenAI says it does not receive your IP address, store your requests, or use them to train its AI models.\n\nThe company says your conversations are only “processed by OpenAI to provide you with a safe response and comply with applicable laws.”\n\nIf you decide to continue a conversation that you initially started through an Apple integration in the ChatGPT app or website, then OpenAI processes your data in accordance with its privacy policy. This means that OpenAI will get access to your IP address, browser type and settings, the date and time of your request, your time zone, country, device information, and more.\n\nOpenAI will also use online analytics tools that use cookies to allow it to analyze how users are interacting with ChatGPT.\n\nUsing ChatGPT with an account through Apple’s integrations\n\nIf you connect your account to Apple’s integrations, your existing data preferences with OpenAI will apply.\n\nFor instance, if your settings indicate that you want your conversations to be saved, then your conversations with ChatGPT through Apple’s integrations will also be saved in your account’s chat history. This means you can access them later through your account.\n\nPlus, if your ChatGPT settings indicate that you don’t want your conversations to be used to train OpenAI’s models, then the same applies to your interactions with ChatGPT through Apple’s integrations.\n\nOnce you connect your account, OpenAI will make some information about your ChatGPT account available on your device in order to connect your account. This information includes your name, email address, profile image, any workspace names, and your billing plan.",
+    "summary": "Following Apple’s integration of OpenAI’s ChatGPT within iOS 18, iPadOS 18, and macOS Sequoia, OpenAI has detailed how your data is handled when you use ChatGPT through Apple’s integration.\nYou can use ChatGPT through Apple’s integrations without logging into a ChatGPT account, but you get access to additional features if you log into your account.\nUsing ChatGPT without an account through Apple’s integrationsIf you use ChatGPT through Apple’s integration without logging into a ChatGPT account, OpenAI says it does not receive your IP address, store your requests, or use them to train its AI models.\nUsing ChatGPT with an account through Apple’s integrationsIf you connect your account to Apple’s integrations, your existing data preferences with OpenAI will apply.\nOnce you connect your account, OpenAI will make some information about your ChatGPT account available on your device in order to connect your account.",
+    "keywords": [
+        "openais",
+        "openai",
+        "data",
+        "account",
+        "apples",
+        "integrations",
+        "access",
+        "integration",
+        "uses",
+        "chatgpt",
+        "conversations",
+        "heres",
+        "settings"
+    ],
+    "url": "https://techcrunch.com/2024/12/11/heres-how-openai-uses-your-data-when-you-use-chatgpt-through-apples-integrations/",
+    "authors": [
+        "Aisha Malik",
+        "Maxwell Zeff",
+        "Kyle Wiggers",
+        "Carly Page",
+        "Romain Dillet",
+        "Julie Bort",
+        "Kirsten Korosec",
+        "Consumer News Reporter",
+        "Paul Sawers",
+        "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var"
+    ],
+    "publish_date": "2024-12-11T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-chatgpt.jpg?resize=1200,800",
+    "scraped_at": "2024-12-12T16:00:49.018228"
+}

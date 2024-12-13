@@ -1,0 +1,42 @@
+{
+  "title": "Embedded data analytics startup Embeddable is still handpicking its customers despite strong demand",
+  "text": "Tom Gardiner and Harry Marshall founded Trevor.io in 2016 as a no-code business intelligence platform to help non-data people run analysis on their internal data. That business was solid, but customers increasingly started asking the company for access to the same tools for their customer-facing data.\n\nGardiner told TechCrunch that the company initially resisted the calls to build a new product and stayed heads down and focused on their internal data tool. But soon the demand became too much to ignore, Gardiner said.\n\n\u201cBigger, bigger, bigger companies started knocking on our doors to the extent where it was like, OK, we need to kind of explore this,\u201d Gardiner said.\n\nThe result was a company called Embeddable, which is creating a developer tool kit to build interactive, customized, customer-facing data analytics dashboards without coding. These can be built using a library of templates contributed by users, not dissimilar to Notion\u2019s or Airbyte\u2019s community-driven approaches.\n\nGardiner, Embeddable co-founder and CEO, said that his company isn\u2019t looking to help companies go from zero to one with their data analytics but rather help customers with existing analytics find scale. Embeddable wants to help these companies build these analytic dashboards faster but leave the presentation and design up to them, similar to gaming software tools like Unity and Unreal Engine, he said.\n\n\u201cIt doesn\u2019t take away the creativity; it just gives them the power to build it the way they want, and gives them all that kind of tooling, and so that\u2019s what we\u2019ve done with Embeddable,\u201d Gardiner said.\n\nThe company is still building out the tech; Embeddable Developer is currently in private beta and handpicking each and every customer that it works with. More than 800 companies have applied to work with Embeddable since it opened this beta in December 2023, and the startup has accepted fewer than 100, Marshall, co-founder and COO, said.\n\n\u201cEvery company that we work with, we\u2019ve made them go through this application and then jumped on a call with them to talk about what their requirements are,\u201d Marshall told TechCrunch. \u201cThe vast majority of companies, we turn them away. We\u2019re focused on this core developer experience. We\u2019re really optimizing for companies whose requirements match what we do.\u201d\n\nThis strategy has worked thus far, and Embeddable is signing more than $100,000 in new revenue each month and is getting ready to scale.\n\nThe London-based company just raised a \u20ac6 million ($6.29 million) seed round led by OpenOcean with participation from Four Rivers and Techstars, among others. The fresh funds will be used to build up the company\u2019s team and put resources into building out more templates for companies and new growth strategies.\n\nSo far, the majority of the company\u2019s growth has been through SEO and search engines as people search for alternatives to replace the industry\u2019s legacy players like Tableau and Microsoft\u2019s Power BI, Gardiner said. And while they\u2019ve enjoyed keeping a tight grip on who has access to the product, they know that this model limits Embeddable\u2019s growth.\n\n\u201cWe kind of handhold you in the sense that if you want to connect your database, we kind of have to help you with that, or if you want to invite a user, we have to help you with that, because in the end, we haven\u2019t prioritized those things, because we\u2019ve been prioritizing the things that really add value,\u201d Gardiner said. \u201cBut obviously, for a self-serve motion, you need to be able to sign yourself up.\u201d\n\nThe company hopes to be able to open a general sign-up system for its tech by the end of next year. Embeddable is also working on giving the end customer more ability to self-serve and customize their own experience, which they hope to roll out in Q1.\n\n\u201cWe literally have people moving from Looker, to us, from Tableau, from GoodData, like, these kind of big names,\u201d Gardiner said. \u201cPeople are moving over to us on a weekly basis, which is really, really interesting, and we never would have thought we would be winning customers from these big guys already.\u201d",
+  "summary": "That business was solid, but customers increasingly started asking the company for access to the same tools for their customer-facing data.\nGardiner told TechCrunch that the company initially resisted the calls to build a new product and stayed heads down and focused on their internal data tool.\nThe result was a company called Embeddable, which is creating a developer tool kit to build interactive, customized, customer-facing data analytics dashboards without coding.\nGardiner, Embeddable co-founder and CEO, said that his company isn\u2019t looking to help companies go from zero to one with their data analytics but rather help customers with existing analytics find scale.\n\u201cPeople are moving over to us on a weekly basis, which is really, really interesting, and we never would have thought we would be winning customers from these big guys already.\u201d",
+  "keywords": [
+    "company",
+    "companies",
+    "startup",
+    "despite",
+    "analytics",
+    "handpicking",
+    "kind",
+    "weve",
+    "customers",
+    "strong",
+    "demand",
+    "data",
+    "help",
+    "embeddable",
+    "really",
+    "embedded",
+    "build",
+    "gardiner"
+  ],
+  "url": "https://techcrunch.com/2024/12/12/embedded-data-analytics-startup-embeddable-is-still-handpicking-its-customers-despite-strong-demand/",
+  "authors": [
+    "Rebecca Szkutak",
+    "Kirsten Korosec",
+    "Kyle Wiggers",
+    "Maxwell Zeff",
+    "Carly Page",
+    "Julie Bort",
+    "Senior Reporter",
+    "Rebecca Bellan",
+    "Charles Rollet",
+    "Cody Corrall"
+  ],
+  "publish_date": "2024-12-12T00:00:00",
+  "top_image": "https://techcrunch.com/wp-content/uploads/2024/12/embeddable-team-berlin.jpg?resize=1200,754",
+  "scraped_at": "2024-12-13T12:37:41.921515",
+  "_id": "675bdd3d5cfffbc7bc08b2ef"
+}

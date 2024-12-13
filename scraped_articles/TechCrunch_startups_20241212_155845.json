@@ -1,0 +1,39 @@
+{
+    "title": "Flare raises $30M to thwart info-stealers like those used on Snowflake customers",
+    "text": "Cybercrime became easier in 2024 with the rise of info-stealer malware, or software that collects login credentials. Instead of breaking into target networks using vulnerabilities, hackers can just log in with those stolen credentials. They don’t even have to steal them themselves, but can buy them on the dark web.\n\nIBM’s 2024 X-Force Intelligence report describes the “relative ease of acquiring credentials.” On the heels of the Snowflake incident earlier this year, one of the most publicized and biggest info-stealing events, the report noted a 266% increase in info-stealer use over 2023.\n\nMontreal-based Flare, a threat exposure management startup, thinks it has an answer with its new Account and Session Takeover Prevention feature. This service watches for signs on the dark web that its customers’ logins are being circulated and then automatically resets the impacted passwords before the thieves can gain access. It also watches for stolen session cookies that can trick computers into thinking the hacker is a previously authenticated user.\n\n“All these organizations had their access to their Snowflake environments essentially compromised. There was no breach of the Snowflake platform,” Flare CEO Norman Menz told TechCrunch. Hackers were “using credentials from info-stealing malware,” he added, and TC also reported at the time.\n\nFlare was founded in 2017 as a modernized cyber threat intelligence (CTI) platform geared for small to mid-sized companies. Its claim to fame is that, in addition to monitoring the usual dark web sources, it has eyes on the threat actors using message app Telegram.\n\n“They’re using it not just to exchange information, but they’re using it for command and control architecture,” Menz said, adding that Flare has the “largest repository of Telegram coverage” compared to many of its competitors.\n\nTelegram’s founder, Pavel Durov, was arrested in late August and later released on a €5 million bail in France, charged with running a company complicit in distributing child sexual abuse material and facilitating drug trafficking and organized fraud. After his highly publicized arrest, downloads of the messaging app spiked.\n\nOn the strength of this new anti-info-stealing tech, its user base and growth, Flare has landed a fresh $30 million Series B led by Base10 Partners Jason Kong, with participation from Inovia Capital, White Star Capital, and Fonds de solidarité FTQ.\n\nWhile Menz would not reveal Flare’s revenue or valuation, he did say that the Series B was a 5.6-times increase in valuation over its 2022 Series A. (Pitchbook estimated the post-money valuation after that $9.3 million Series A was $13.33 million.) Menz also said the company has about 100 employees, and about 250 customers in over 40 countries.\n\n“Built for the SMB and mid market, Flare looks outside of the perimeter into enemy territory where these organized cyber criminals are talking, engaging, transacting business,” Kong told TechCrunch. “They’re the spies, if you will.”\n\nFlare’s ability to raise was also helped when one of the biggest players in the threat intelligence world, Recorded Future, sold to Mastercard for $2.65 billion in September. That proves that this area of cybersecurity can produce big exits. But Flare faces plenty of other competitors, too, from startups to big names like like Mandiant, Palo Alto Networks, and Microsoft.",
+    "summary": "Montreal-based Flare, a threat exposure management startup, thinks it has an answer with its new Account and Session Takeover Prevention feature.\nThere was no breach of the Snowflake platform,” Flare CEO Norman Menz told TechCrunch.\nHackers were “using credentials from info-stealing malware,” he added, and TC also reported at the time.\nFlare was founded in 2017 as a modernized cyber threat intelligence (CTI) platform geared for small to mid-sized companies.\n(Pitchbook estimated the post-money valuation after that $9.3 million Series A was $13.33 million.)",
+    "keywords": [
+        "using",
+        "menz",
+        "customers",
+        "credentials",
+        "30m",
+        "valuation",
+        "flare",
+        "series",
+        "million",
+        "thwart",
+        "infostealers",
+        "intelligence",
+        "raises",
+        "threat",
+        "snowflake",
+        "used"
+    ],
+    "url": "https://techcrunch.com/2024/12/11/flare-raises-30m-to-thwart-info-stealers-like-those-used-on-snowflake-customers/",
+    "authors": [
+        "Julie Bort",
+        "Rebecca Szkutak",
+        "Maxwell Zeff",
+        "Kyle Wiggers",
+        "Carly Page",
+        "Kirsten Korosec",
+        "Romain Dillet",
+        "Jagmeet Singh",
+        "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var",
+        "Media"
+    ],
+    "publish_date": "2024-12-11T00:00:00",
+    "top_image": "https://techcrunch.com/wp-content/uploads/2024/12/Flare-team.jpg?resize=1200,800",
+    "scraped_at": "2024-12-12T15:58:45.814609"
+}
